@@ -333,7 +333,6 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social. (2020). <em>Resolución 521 de 2020</em>.',
-      link: 'https://www.minsalud.gov.co/RID/resolucion-521-de-2020.pdf',
     },
     {
       referencia:
